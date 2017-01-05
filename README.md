@@ -35,9 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-My biggest challenge throughout this assignmentw was making the constant switch
-between writing PHP code versus writing HTML code.
+My biggest challenge during this assignment was remembering to put the closing
+PHP tag in.
 
 
 ## License
