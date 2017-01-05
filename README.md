@@ -4,7 +4,7 @@ Tiply is a tip calculator PHP page.
 
 Submitted by: Gates Zeng
 
-Time spent: **5** hours spent in total
+Time spent: **7.25** hours spent in total
 
 ## User Stories
 
@@ -17,12 +17,13 @@ The following **required** functionality is complete:
 * [x] Submitted form values are retained when errors or results are shown.
 
 The following **optional** features are implemented:
-* [ ] Add support for custom tip percentage
-* [ ] Add support for splitting the tip and total
+* [x] Add support for custom tip percentage
+* [x] Add support for splitting the tip and total
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the functionality!
+* [x] Added a currency thousands separator
+* [x] Added additional error checks/messages for incorrect custom percentage
 
 ## Video Walkthrough
 
@@ -35,10 +36,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+My biggest challenge throughout this assignmentw was making the constant switch
+between writing PHP code versus writing HTML code.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Gates Zeng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
